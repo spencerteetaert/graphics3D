@@ -1,0 +1,22 @@
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.Cache
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.CoreCompileInputs.cache
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojResolveAssemblyReference.cache
+G:\My Drive\Course Work\ICS40S\Graphics3D\Graphics3D\obj\Debug\Graphics3D.AboutBox1.resources
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\bin\Debug\Graphics3D.exe.config
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\bin\Debug\Graphics3D.exe
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\bin\Debug\Graphics3D.pdb
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.csprojResolveAssemblyReference.cache
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.AboutBox1.resources
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.Cache
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.csproj.CoreCompileInputs.cache
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.exe
+G:\My Drive\Course Work\ICS40S\Graphics3D (Cubicle)\Graphics3D\obj\Debug\Graphics3D.pdb
